@@ -1,0 +1,31 @@
+{
+  "name": "DailyQustionsOfMountainGun",
+  "version": "1.0.0",
+  "description": "炮之每日一问",
+  "main": "index.js",
+  "scripts": {
+    "build:js": "rollup --config ./practice-env/js-env/rollup.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues"
+  },
+  "homepage": "https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun#readme",
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.2",
+    "rollup": "^2.15.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
