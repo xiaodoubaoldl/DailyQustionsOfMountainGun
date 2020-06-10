@@ -1,0 +1,1 @@
+- [实现一个把同步变异的函数函数](https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues/2)
