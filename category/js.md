@@ -1,1 +1,1 @@
-- [实现一个把同步变异的函数函数](https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues/2)
+- [把同步回调函数包装成变异步函数，fn(arg, cb) >>> fn(arg).then(func).catch(func)](https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues/2)
