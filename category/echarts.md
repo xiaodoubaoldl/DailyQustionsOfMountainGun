@@ -1,0 +1,1 @@
+- [echarts特性](https://github.com/xiaodoubaoldl/DailyQustionsOfMountainGun/issues/5)
